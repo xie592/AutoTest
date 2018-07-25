@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<common>
+		<url>www.baidu.com</url>
+	</common>
+	<Case01>
+		<username>zhangsan</username>
+		<pwd>123</pwd>
+	</Case01>
+	<Case01>
+		<username>lisi</username>
+		<pwd>456</pwd>
+	</Case01>
+</data>

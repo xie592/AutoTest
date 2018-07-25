@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<对象>
+
+    <智联登录页>
+        <用户名输入框><type>id</type><value>LoginName</value></用户名输入框>
+        <密码输入框><type>id</type><value>Password</value></密码输入框>
+        <登录按钮><type>id</type><value>loginbutton</value></登录按钮>
+        <验证码按钮><type>id</type><value>CheckCodeCapt</value></验证码按钮>
+        <验证码区域><type>id</type><value>captcha-img-sprites</value></验证码区域>
+        <验证按钮><type>id</type><value>aptcha-submitCode</value></验证按钮>
+    </智联登录页>
+
+    <IHR首页>
+        <发布职位按钮><type>xpath</type><value>//a[@class='publishjob']</value></发布职位按钮>
+    </IHR首页>
+</对象>

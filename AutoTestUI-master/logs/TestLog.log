@@ -1,0 +1,32 @@
+2018-03-06 09:55:32,563 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 09:56:08,080 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 09:56:08,081 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：loginIhr 正在进行第1次失败重跑
+2018-03-06 09:56:53,977 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 10:37:23,421 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 10:37:58,781 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 10:37:58,782 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：loginIhr 正在进行第1次失败重跑
+2018-03-06 10:38:44,849 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 10:39:15,453 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 10:48:05,974 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 10:48:34,781 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 11:24:55,631 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 11:25:48,540 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 11:25:48,541 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：loginIhr 正在进行第1次失败重跑
+2018-03-06 11:30:50,413 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 11:33:46,604 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 11:34:57,451 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 11:41:42,538 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：loginIhr 正在进行第1次失败重跑
+2018-03-06 13:52:39,899 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 13:52:51,477 [INFO ] com.zhaopin.uitest.base.CheckPoint.result(CheckPoint.java:106) chrome:TestCase01:登录成功
+2018-03-06 13:53:49,689 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 13:53:54,738 [INFO ] com.zhaopin.uitest.base.CheckPoint.result(CheckPoint.java:106) chrome:TestCase01:登录成功
+2018-03-06 13:54:25,380 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 13:54:25,381 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：loginIhr 正在进行第1次失败重跑
+2018-03-06 13:55:11,820 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 14:06:47,038 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 14:06:52,000 [INFO ] com.zhaopin.uitest.base.CheckPoint.result(CheckPoint.java:106) chrome:TestCase01:登录成功
+2018-03-06 14:07:22,665 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 14:07:22,665 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：loginIhr 正在进行第1次失败重跑
+2018-03-06 14:08:09,150 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:331) By.id: aptcha-submitCode等待30秒后未出现！
+2018-03-06 14:59:33,602 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:42) 正在为所有测试方法添加失败重跑机制
+2018-03-06 14:59:38,770 [INFO ] com.zhaopin.uitest.base.CheckPoint.result(CheckPoint.java:106) chrome:TestCase01:登录成功

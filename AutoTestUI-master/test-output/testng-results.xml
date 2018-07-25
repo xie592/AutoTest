@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[chrome:TestCase01:登录成功]]>
+    </line>
+  </reporter-output>
+  <suite name="testSuit" duration-ms="6621" started-at="2018-03-06T06:59:33Z" finished-at="2018-03-06T06:59:40Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="6621" started-at="2018-03-06T06:59:33Z" finished-at="2018-03-06T06:59:40Z">
+      <class name="com.zhaopin.uitest.cases.TestCase01">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.zhaopin.uitest.cases.TestCase01@fe18270]" name="beforeSuite" is-config="true" duration-ms="6" started-at="2018-03-06T14:59:33Z" finished-at="2018-03-06T14:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.zhaopin.uitest.cases.TestCase01@fe18270]" name="beforeTest" is-config="true" duration-ms="3413" started-at="2018-03-06T14:59:33Z" finished-at="2018-03-06T14:59:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.zhaopin.uitest.cases.TestCase01@fe18270]" name="beforeClass" is-config="true" duration-ms="10" started-at="2018-03-06T14:59:37Z" finished-at="2018-03-06T14:59:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase01()[pri:0, instance:com.zhaopin.uitest.cases.TestCase01@fe18270]" name="testCase01" duration-ms="1656" started-at="2018-03-06T14:59:37Z" finished-at="2018-03-06T14:59:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome:TestCase01:登录成功]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.zhaopin.uitest.cases.TestCase01@fe18270]" name="afterTest" is-config="true" duration-ms="750" started-at="2018-03-06T14:59:39Z" finished-at="2018-03-06T14:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.zhaopin.uitest.cases.TestCase01@fe18270]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-03-06T14:59:40Z" finished-at="2018-03-06T14:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.zhaopin.uitest.cases.TestCase01 -->
+    </test> <!-- test -->
+  </suite> <!-- testSuit -->
+</testng-results>

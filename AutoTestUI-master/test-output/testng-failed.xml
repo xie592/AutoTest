@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testSuit]">
+  <listeners>
+    <listener class-name="com.zhaopin.uitest.listener.MyListener"/>
+  </listeners>
+  <test name="test(failed)">
+    <parameter name="broswerType" value="chrome"/>
+    <classes>
+      <class name="com.zhaopin.uitest.cases.LoginIHR">
+        <methods>
+          <include name="loginIhr"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.zhaopin.uitest.cases.LoginIHR -->
+      <class name="com.zhaopin.uitest.cases.TestCase01">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.zhaopin.uitest.cases.TestCase01 -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [testSuit] -->

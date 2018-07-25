@@ -1,0 +1,16 @@
+15:08:50,837 INFO  com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:41) 正在为所有测试方法添加失败重跑机制
+15:09:26,353 ERROR com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+15:09:26,354 INFO  com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：test01 正在进行第1次失败重跑
+15:09:57,039 ERROR com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+15:09:57,039 INFO  com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：test01 正在进行第2次失败重跑
+15:10:27,789 ERROR com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+15:10:27,794 INFO  com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：test01 正在进行第3次失败重跑
+15:10:58,397 ERROR com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+15:14:15,378 INFO  com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:41) 正在为所有测试方法添加失败重跑机制
+15:14:50,106 ERROR com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+15:14:50,107 INFO  com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：test01 正在进行第1次失败重跑
+15:15:20,555 ERROR com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+2018-03-03 15:19:19,385 [INFO ] com.zhaopin.uitest.listener.MyListener.onStart(MyListener.java:41) 正在为所有测试方法添加失败重跑机制
+2018-03-03 15:19:53,957 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！
+2018-03-03 15:19:53,958 [INFO ] com.zhaopin.uitest.listener.TestRetryAnalyzer.retry(TestRetryAnalyzer.java:21) 用例：test01 正在进行第1次失败重跑
+2018-03-03 15:20:24,476 [ERROR] com.zhaopin.uitest.base.Locator.waitForElement(Locator.java:301) By.tagName: ourl等待30秒后未出现！

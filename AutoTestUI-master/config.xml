@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+
+    <objectWaitTime>30</objectWaitTime>//智能等待元素时长
+
+    <pageLoadTimeout>30</pageLoadTimeout>//页面加载时长
+
+    <retryTimes>1</retryTimes>//失败重跑次数
+
+    <objectRepository>object.xml</objectRepository>//对象库路径
+
+</config>
